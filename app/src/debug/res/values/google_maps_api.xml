@@ -1,0 +1,7 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+    -->
+    <!--buraya api key eklemelisiniz-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDbpsAC61GYG3j6Li3DpAnSBTtDQ</string>
+</resources>
